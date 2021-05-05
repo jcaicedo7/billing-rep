@@ -11,9 +11,8 @@ public class BasicApplicationTests {
 
 	@Test
 	public void contextLoads() {
-		String message = "Prueba de unidad por <JLCG> 1.0.1";
+		String message = "Prueba de unidad por <JLCG> 1.0.2";
 		Assert.assertNotNull(message);
-		System.out.println("JLCG");
 	}
 
 }
